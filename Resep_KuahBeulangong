@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Resep Kuah Beulangong</title>
+</head>
+<body>
+
+    <h1>Resep Masakan Aceh</h1>
+
+    <h2>Kuah Beulangong</h2>
+
+    <h3>Bahan-bahan:</h3>
+    <ul>
+        <li>1 kg daging sapi</li>
+        <li>500 gram nangka muda</li>
+        <li>8 siung bawang merah</li>
+        <li>5 siung bawang putih</li>
+        <li>5 buah cabai merah</li>
+        <li>2 batang serai</li>
+        <li>2 lembar daun salam</li>
+        <li>2 lembar daun jeruk</li>
+        <li>1 ruas jahe</li>
+        <li>1 ruas lengkuas</li>
+        <li>1 sendok teh kunyit</li>
+        <li>Garam secukupnya</li>
+        <li>Air secukupnya</li>
+        <li>Minyak secukupnya</li>
+    </ul>
+
+    <h3>Cara membuat:</h3>
+    <ol>
+        <li>Potong daging dan nangka muda menjadi beberapa bagian.</li>
+        <li>Haluskan bawang merah, bawang putih, cabai, jahe, lengkuas, dan kunyit.</li>
+        <li>Tumis bumbu yang sudah dihaluskan hingga harum.</li>
+        <li>Masukkan serai, daun salam, dan daun jeruk.</li>
+        <li>Masukkan daging, lalu aduk hingga bumbu merata.</li>
+        <li>Tambahkan air dan masak hingga daging mulai empuk.</li>
+        <li>Masukkan nangka muda dan masak hingga semuanya matang.</li>
+        <li>Tambahkan garam secukupnya dan koreksi rasa.</li>
+        <li>Kuah Beulangong siap disajikan.</li>
+    </ol>
+
+</body>
+</html>
+
