@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Buku Resep Aceh</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f1e8;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #7b3f00;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        header p {
+            margin-top: 8px;
+        }
+
+        .container {
+            width: 80%;
+            margin: 40px auto;
+        }
+
+        .container h2 {
+            text-align: center;
+            color: #5c3000;
+            margin-bottom: 30px;
+        }
+
+        .recipes {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            background-color: white;
+            width: 250px;
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        }
+
+        .card h3 {
+            color: #7b3f00;
+        }
+
+        .card p {
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background-color: #7b3f00;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+
+        .button:hover {
+            background-color: #5c3000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🍲 Buku Resep Aceh</h1>
+        <p>Kumpulan Resep Khas Aceh</p>
+    </header>
+
+    <div class="container">
+
+        <h2>Pilih Resep</h2>
+
+        <div class="recipes">
+
+            <!-- Kue Adee -->
+            <div class="card">
+                <h3>Kue Adee</h3>
+                <p>
+                    Kue tradisional Aceh dengan cita rasa manis dan lembut.
+                </p>
+
+                <a class="button"
+                   href="https://github.com/susanrtyh/Buku_Resep_Aceh/blob/KueAdee_Sausan/Resep_KueAdee.html">
+                    Lihat Resep
+                </a>
+            </div>
+
+            <!-- Kuah Beulangong -->
+            <div class="card">
+                <h3>Kuah Beulangong</h3>
+                <p>
+                    Masakan khas Aceh dengan kuah berbumbu yang kaya rempah.
+                </p>
+
+                <a class="button" 
+                    href="https://github.com/susanrtyh/Buku_Resep_Aceh/blob/KuahBeulangong_Syifa/Resep_KuahBeulangong.html">
+                    Lihat Resep
+                </a>
+            </div>
+
+            <!-- Sate Matang -->
+            <div class="card">
+                <h3>Sate Matang</h3>
+                <p>
+                    Sate khas Aceh dengan bumbu dan cita rasa yang khas.
+                </p>
+
+                <a class="button" 
+                href="https://github.com/susanrtyh/Buku_Resep_Aceh/blob/SateMatang_Aqila/Resep_SateMatang.html">
+                    Lihat Resep
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
